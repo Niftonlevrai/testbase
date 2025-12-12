@@ -1,3 +1,6 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-onchain`]().
 
 
